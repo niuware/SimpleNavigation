@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  SimpleNavigation
+
+  Created by Erik Lopez on 2022/01/12.
+  
+*/
+"app.tab.feed" = "Feed";
+"app.tab.music" = "Music";
+"app.tab.account" = "Account";
+
+"account.edit.title" = "Edit Account";
+"account.edit.name" = "Name";
+"account.edit.username" = "Username";
+"account.edit.confirm" = "Confirm";
+
+"account.confirm.title" = "Confirm Changes";
+"account.confirm.complete" = "Complete";
+
+"account.header.default" = "Account";
+"account.header.favorites" = "Favorites";
+
+"item.more" = "More";
