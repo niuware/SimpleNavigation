@@ -1,0 +1,19 @@
+# Xcode
+*.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+*.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+!*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+
+## User settings
+xcuserdata/
+
+## GCC patch
+/*.gcno
+
+# SPM
+SourcePackages/
+
+## General
+.DS_Store
